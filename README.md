@@ -1,4 +1,4 @@
-# FlyTech Shopping Cart Vue Project
+# Shopping Cart Vue Project
 
 This template should help get you started developing with Vue 3 in Vite.
 
